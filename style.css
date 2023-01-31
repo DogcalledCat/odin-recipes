@@ -14,7 +14,11 @@ h3 {
     font-weight: 700;
     font-size: large;
     color: purple;
-}
+    }
+
+    h2 {
+        color: yellow;
+    }
 
 li {
     color: red;
@@ -33,6 +37,12 @@ a {
 
 .italic {
     font-size: 20;
-
 }
+
+.chapter {
+    color: blueviolet;
+    font-size: 20px;
+}
+
+
 
